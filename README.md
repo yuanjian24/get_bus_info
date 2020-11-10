@@ -17,9 +17,13 @@ This repo show you how to download bus line and bus station based on map provide
 
 **Step 5**: Get the bus line information and bus station information (See `get_bus_geo_info_manually.ipynb`)
 
-**Note**:
+The following image shows 10 bus lines for demonstration
+
+<img src="image/result_visualization.png" style="width:600px">
+
+**Note**: 
 
 1. Geopandas package is required.
 2. The GPS coordinator converter is copied from [知名博主小旭学长](https://gitee.com/ni1o1/CoordinatesConverter)
-3. This repo is used for academic purpose only, do not be a bad boy.
+3. This repo is used for academic purpose only.
 
