@@ -7,13 +7,13 @@ This repo show you how to download bus line and bus station based on map provide
 
 **Step 2**: Switch to `Network/All/Preview`,  then search for your expected bus line 
 
-![Step 2](image/Step 2.png)
+< img src="image/Step 2.png" style="width:600px">
 
 **Step 3**: Click the first item, then you will see the information under the keyword `data`. 
 
 **Step 4**: Copy the information and paste it into your local scripts (See `shanghai_bus_line.py` for example) 
 
-![Step 4](image/Step 4.png)
+< img src="image/Step 4.png" style="width:600px">
 
 **Step 5**: Get the bus line information and bus station information (See `get_bus_geo_info_manually.ipynb`)
 
